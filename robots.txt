@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://naterbas.github.io/sitemap.html.gz
+Sitemap: https://naterbas.github.io/app/sitemap.html.gz
+Sitemap: https://naterbas.github.io/assets/sitemap.html.gz
+Sitemap: https://naterbas.github.io/css/sitemap.html.gz
+Sitemap: https://naterbas.github.io/includes/sitemap.html.gz
+Sitemap: https://naterbas.github.io/item/sitemap.html.gz
+Sitemap: https://naterbas.github.io/src/sitemap.html.gz
